@@ -44,8 +44,8 @@
         ],
         "BUTTON_BG": [
             "Button background",
-            "#cf9ef3", 
-            "#cf9ef3", 
+            "#c2b6f5", 
+            "#c2b6f5", 
             "--button-bg"
         ],
         "BUTTON_DISABLED": [
